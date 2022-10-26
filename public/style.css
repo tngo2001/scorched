@@ -1,24 +1,51 @@
+/* Reset padding and margin */
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
-  font-family: sans-serif;
-  margin: auto;
-  max-width: 1280px;
+  padding: 64px 32px;
+  font: 18px/1.5 "Avenir", "Avenir Next", "Helvetica Neue", Arial, sans-serif;
 }
 
-.navbar {
-  background-color: #313236;
-  border-radius: 2px;
-  max-width: 800px;
+header,
+section,
+footer {
+  max-width: 90ex;
+  margin: 0 auto;
 }
 
-.navbar a {
-  color: #aaa;
-  display: inline-block;
-  font-size: 15px;
-  padding: 10px;
+header {
+  padding-bottom: 32px;
+  border-bottom: 2px solid #ccc;
+}
+
+main {
+  width: fit-content;
+  margin: 64px auto;
+}
+
+footer {
+  padding-top: 16px;
+  text-align: right;
+}
+
+h1 {
+  margin-bottom: 32px;
+  color: #492a7c;
+}
+
+h2 {
+  width: fit-content;
+  margin: 32px 0 16px;
+  border-bottom: 2px solid #ccc;
+}
+
+a {
   text-decoration: none;
 }
 
-.navbar a:hover {
-  color: #ffffff;
+section p {
+  margin: 1em 0;
 }
-
