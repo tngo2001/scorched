@@ -9,3 +9,5 @@ pages:
       - public
   tags:
     - Pages
+  only:
+    - main
