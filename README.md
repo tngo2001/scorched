@@ -1,3 +1,8 @@
-# Starter repository
+# Wildfires in the States
 
-The files in the [public](/public) directory are deployed to: https://cse442-22au.pages.cs.washington.edu/starter-repository/
+Team members:
+* Jaclyn Chen
+* Allyson Mangus
+* Thompson Ngo
+
+The files in the [public](/public) directory are deployed to: https://cse442-22au.pages.cs.washington.edu/fp/agni/
