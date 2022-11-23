@@ -2,7 +2,7 @@
 export const Location = () => {
     return (
       <div className="section">
-        <h3>Location page</h3>
+        <h3>Fires, fires, everywhere</h3>
        
       </div>);
   };

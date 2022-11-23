@@ -2,7 +2,7 @@
 export const Impact = () => {
     return (
       <div className="section">
-        <h3>Impact</h3>
+        <h3>Their impact on nature and our communities</h3>
        
       </div>);
   };
