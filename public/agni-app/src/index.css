@@ -1,13 +1,32 @@
+@import url(//fonts.googleapis.com/css?family=Noticia+Text);
+
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Noticia';
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+h1 {
+
+  font-size: 5em;
+  color: #EEE8E7;
+  font-weight: 5;
+
+}
+
+h3 {
+  font-size: 3em;
+  text-align: center;
+  color: #EEE8E7;
+  font-weight: 10;
+}
+
+#section1 {
+  color: #fff;
+}
+.section{
+  height: 100vh;
+  
+}
+
+.fp-section {
+  text-align: center;
 }
