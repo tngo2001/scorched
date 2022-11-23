@@ -21,7 +21,7 @@ const App = () => (
     navigation
     navigationTooltips={anchors}
     navigat
-    sectionsColor={["#212121","#dddddd","#212121", "#dddddd","#212121", "#dddddd", ]}
+    sectionsColor={["#212121","#dddddd","#212121", "#dddddd","#212121", "#dddddd","#212121", "#dddddd", ]}
     onLeave={(origin, destination, direction) => {
       console.log("onLeave event", { origin, destination, direction });
     }}
@@ -34,6 +34,7 @@ const App = () => (
           <Context/>
           <Wild/>
           <Location/>
+          <Impact/>
           <Summary/>
           <Help/>
           <About/>
