@@ -6,7 +6,7 @@ pages:
     - echo "Deploying..."
   artifacts:
     paths:
-      - build
+      - public/agni-app/build
   tags:
     - Pages
   only:
