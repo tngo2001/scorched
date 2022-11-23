@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fp/agni/static/css/main.073c9b0a.css",
+    "main.js": "/fp/agni/static/js/main.ec683268.js",
+    "static/js/787.0946c508.chunk.js": "/fp/agni/static/js/787.0946c508.chunk.js",
+    "index.html": "/fp/agni/index.html",
+    "main.073c9b0a.css.map": "/fp/agni/static/css/main.073c9b0a.css.map",
+    "main.ec683268.js.map": "/fp/agni/static/js/main.ec683268.js.map",
+    "787.0946c508.chunk.js.map": "/fp/agni/static/js/787.0946c508.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ec683268.js"
+  ]
+}
