@@ -6,8 +6,7 @@ pages:
     - echo "Deploying..."
   artifacts:
     paths:
-      #- public
-      - build
+      - public
   tags:
     - Pages
   only:
