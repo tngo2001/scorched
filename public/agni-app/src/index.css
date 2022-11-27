@@ -1,32 +1,52 @@
 @import url(//fonts.googleapis.com/css?family=Noticia+Text);
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
 
 body {
   font-family: 'Noticia';
 }
 
+/* Title */
 h1 {
-
   font-size: 5em;
   color: #EEE8E7;
   font-weight: 5;
 
 }
 
+/* Subheadings */
 h3 {
   font-size: 3em;
   text-align: center;
-  color: #EEE8E7;
+  /*color: #EEE8E7;*/
   font-weight: 10;
 }
 
+/* Body ("The number of wildfires have been relatively constant") */
+p {
+  font-family: 'Oxygen';
+  font-size: 20px;
+}
+/*
 #section1 {
   color: #fff;
-}
+} */
+
 .section{
   height: 100vh;
-  
 }
 
 .fp-section {
   text-align: center;
+}
+
+.light-bg{
+  color: #212121;
+}
+
+.dark-bg{
+  color: #EEE8E7;
+}
+
+img {
+  margin: 10px;
 }

@@ -1,11 +1,11 @@
 
 export const About = () => {
     return (
-      <div className="section">
+      <div className="section dark-bg">
         <h3>About</h3>
 
         <p>
-      <strong>Team Members</strong>: Jaclyn Chen; Allyson Mangus; Thompson Ngo
+      <strong>Team Members</strong>: Jaclyn Chen, Allyson Mangus, Thompson Ngo
     </p>
  
 
