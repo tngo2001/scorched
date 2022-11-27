@@ -7,6 +7,7 @@ import Splash from "./components/splash";
 import Context from "./components/context";
 import Acres from "./components/acres";
 import Wild from "./components/wild";
+import CauseExplain from "./components/causeExplain";
 import Location from "./components/location";
 import Impact from "./components/impact";
 import Summary from "./components/summary";
@@ -14,7 +15,7 @@ import Help from "./components/help";
 import About from "./components/about";
 
 
-const anchors = ["Introduction", "Overview", "Acres-burned", "Causes", "Location", "Impact", "Summary", "How-to-help", "About"];
+const anchors = ["Introduction", "Overview", "Acres-burned", "Causes", "Causes-Explained", "Location", "Impact", "Summary", "How-to-help", "About"];
 
 const App = () => (
   <ReactFullpage
@@ -22,7 +23,7 @@ const App = () => (
     navigation
     navigationTooltips={anchors}
     navigat
-    sectionsColor={["#212121","#EEE8E7","#212121", "#EEE8E7","#212121", "#EEE8E7","#212121", "#EEE8E7", "#212121"]}
+    sectionsColor={["#212121","#EEE8E7","#212121", "#EEE8E7", "#EEE8E7","#212121", "#EEE8E7","#212121", "#EEE8E7", "#212121"]}
     onLeave={(origin, destination, direction) => {
       console.log("onLeave event", { origin, destination, direction });
     }}
@@ -35,6 +36,7 @@ const App = () => (
           <Context/>
           <Acres/>
           <Wild/>
+          <CauseExplain/>
           <Location/>
           <Impact/>
           <Summary/>

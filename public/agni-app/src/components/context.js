@@ -14,13 +14,7 @@ export const Context = () => {
         <p><strong>Let's smoke out the data.</strong></p>
         {/* What if we made that text a button that scrolled to the next section? */}
 
-        <p> Yet, why does it feel like we've seen wildfires on the news more and more in the past few years?</p>
-
-        <p>Let's smoke out the data</p>
-
-
-
-
+       
        
       </div>);
   };
