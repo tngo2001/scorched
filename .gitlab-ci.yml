@@ -4,9 +4,11 @@ pages:
   stage: deploy
   script:
     - echo "Deploying..."
+    - mv public public-temp
+    - mv public-temp/agni-app/build public
   artifacts:
     paths:
-      - public/agni-app/build
+      - public
   tags:
     - Pages
   only:
