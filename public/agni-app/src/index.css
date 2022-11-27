@@ -6,9 +6,11 @@ body {
 
 h1 {
 
-  font-size: 5em;
+  font-size: 10em;
   color: #EEE8E7;
-  font-weight: 5;
+  font-weight: 100;
+  margin-block-start: 0;
+  margin-block-end: 0; 
 
 }
 
@@ -16,15 +18,23 @@ h3 {
   font-size: 3em;
   text-align: center;
   color: #EEE8E7;
-  font-weight: 10;
+  font-weight: 300;
 }
 
-#section1 {
+/* #section1 {
   color: #fff;
-}
+} */
 .section{
   height: 100vh;
   
+}
+
+#splash{
+  margin-block-start: 0;
+  margin-block-end: 0; 
+
+  /* background-image: url("./media/wildfireSplash1.png");
+  background-size: cover; */
 }
 
 .fp-section {

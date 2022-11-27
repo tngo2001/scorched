@@ -10,7 +10,7 @@ export const Context = () => {
 
 
 
-        <p> Yet, why does it feel like you've seen wildfires on the news more and more in the past few years?</p>
+        <p> Yet, why does it feel like we've seen wildfires on the news more and more in the past few years?</p>
 
         <p>Let's smoke out the data</p>
 
