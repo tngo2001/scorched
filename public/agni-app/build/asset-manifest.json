@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/fp/agni/static/css/main.073c9b0a.css",
-    "main.js": "/fp/agni/static/js/main.ec683268.js",
+    "main.css": "/fp/agni/static/css/main.8f012e69.css",
+    "main.js": "/fp/agni/static/js/main.51df7b17.js",
     "static/js/787.0946c508.chunk.js": "/fp/agni/static/js/787.0946c508.chunk.js",
+    "static/media/peopleAffected.png": "/fp/agni/static/media/peopleAffected.4343ccdec8a70e67d985.png",
+    "static/media/summaryTrends.png": "/fp/agni/static/media/summaryTrends.861ad16b686f7b9518fd.png",
+    "static/media/firesMap.png": "/fp/agni/static/media/firesMap.8a39c166e06b0d1d363c.png",
+    "static/media/costComparison.png": "/fp/agni/static/media/costComparison.f731149e035e3ad39336.png",
+    "static/media/numAcres-vs-year.png": "/fp/agni/static/media/numAcres-vs-year.11792ba7ba62c6344c84.png",
+    "static/media/numFires-bubble-byCause.png": "/fp/agni/static/media/numFires-bubble-byCause.e301b24dc0f34cd49725.png",
+    "static/media/numFires-vs-year.png": "/fp/agni/static/media/numFires-vs-year.dbde4edab01763ec539d.png",
     "index.html": "/fp/agni/index.html",
-    "main.073c9b0a.css.map": "/fp/agni/static/css/main.073c9b0a.css.map",
-    "main.ec683268.js.map": "/fp/agni/static/js/main.ec683268.js.map",
+    "main.8f012e69.css.map": "/fp/agni/static/css/main.8f012e69.css.map",
+    "main.51df7b17.js.map": "/fp/agni/static/js/main.51df7b17.js.map",
     "787.0946c508.chunk.js.map": "/fp/agni/static/js/787.0946c508.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ec683268.js"
+    "static/css/main.8f012e69.css",
+    "static/js/main.51df7b17.js"
   ]
 }
