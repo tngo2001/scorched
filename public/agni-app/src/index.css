@@ -13,7 +13,7 @@ h1 {
   color: #EEE8E7;
   font-weight: 100;
   margin-block-start: 0;
-  margin-block-end: 0; 
+  margin-block-end: 0;
 
 }
 
@@ -33,7 +33,7 @@ p {
 /*
 #section1 {
   color: #fff;
-} 
+}
 
 } */
 .section{
@@ -42,7 +42,7 @@ p {
 
 #splash{
   margin-block-start: 0;
-  margin-block-end: 0; 
+  margin-block-end: 0;
 
   /* background-image: url("./media/wildfireSplash1.png");
   background-size: cover; */
@@ -50,7 +50,7 @@ p {
 
 #splash{
   margin-block-start: 0;
-  margin-block-end: 0; 
+  margin-block-end: 0;
 
   /* background-image: url("./media/wildfireSplash1.png");
   background-size: cover; */
@@ -70,4 +70,8 @@ p {
 
 img {
   margin: 10px;
+}
+
+.hidden {
+  display: none;
 }
