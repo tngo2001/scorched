@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fp/agni/static/css/main.fb176c97.css",
-    "main.js": "/fp/agni/static/js/main.8c8c609a.js",
+    "main.js": "/fp/agni/static/js/main.e8b8a59f.js",
     "static/js/787.0946c508.chunk.js": "/fp/agni/static/js/787.0946c508.chunk.js",
     "static/media/peopleAffected.png": "/fp/agni/static/media/peopleAffected.4343ccdec8a70e67d985.png",
     "static/media/summaryTrends.png": "/fp/agni/static/media/summaryTrends.861ad16b686f7b9518fd.png",
@@ -10,11 +10,11 @@
     "static/media/numFires-bubble-byCause.png": "/fp/agni/static/media/numFires-bubble-byCause.e301b24dc0f34cd49725.png",
     "index.html": "/fp/agni/index.html",
     "main.fb176c97.css.map": "/fp/agni/static/css/main.fb176c97.css.map",
-    "main.8c8c609a.js.map": "/fp/agni/static/js/main.8c8c609a.js.map",
+    "main.e8b8a59f.js.map": "/fp/agni/static/js/main.e8b8a59f.js.map",
     "787.0946c508.chunk.js.map": "/fp/agni/static/js/787.0946c508.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb176c97.css",
-    "static/js/main.8c8c609a.js"
+    "static/js/main.e8b8a59f.js"
   ]
 }
