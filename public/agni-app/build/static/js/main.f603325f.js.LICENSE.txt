@@ -1,3 +1,9 @@
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
 /*!
       * fullPage 4.0.15
       * https://github.com/alvarotrigo/fullPage.js
