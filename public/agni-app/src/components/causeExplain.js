@@ -3,7 +3,7 @@ export const CauseExplain = () => {
       <div className="section light-bg">
        
 
-        <p>Humans start forest fires with unattended campfires, cigarettes, and arson</p>
+        <p>Humans often start wildfires through unattended campfires, lit cigarettes, and arson.</p>
 
        
       </div>);
