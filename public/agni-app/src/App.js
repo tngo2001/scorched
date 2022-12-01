@@ -27,10 +27,10 @@ const App = () => (
     // sectionsColor={["#212121","#383838","#212121", "#383838","#212121","##383838","#212121", "#383838","#212121", "#383838", ]}
     sectionsColor={["#212121","#EEE8E7","#212121", "#EEE8E7", "#EEE8E7","#212121","#212121", "#212121","#EEE8E7","#212121", "#EEE8E7"]}
     onLeave={(origin, destination, direction) => {
-      console.log("onLeave event", { origin, destination, direction });
+      //console.log("onLeave event", { origin, destination, direction });
     }}
     render={({ state, fullpageApi }) => {
-      console.log("render prop change", state, fullpageApi);
+      //console.log("render prop change", state, fullpageApi);
 
       return (
         <div>

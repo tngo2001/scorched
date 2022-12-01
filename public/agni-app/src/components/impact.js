@@ -17,7 +17,7 @@ export const Impact = () => {
         
         <p><strong>Health Effects</strong></p>
         
-        <p>Wildfires produce smoke that has a fine particulate matter. When inhaled, it gets trapped in lungs, can enter the bloodstream -> respiratory, cardiovascular problems</p>
+        <p>Wildfires produce smoke that has a fine particulate matter. When inhaled, it gets trapped in lungs, can enter the bloodstream leads to respiratory, cardiovascular problems</p>
 
         <p>Bad air quality of _____ is equivalent to smoking 7 cigarettes a day</p>
         <img src={fireCigarette} alt="" width="40%" height="40%"/>
