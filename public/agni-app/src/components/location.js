@@ -33,12 +33,15 @@ export const Location = () => {
             var divElement = document.getElementById('viz1669791521307');
             var vizElement = divElement.getElementsByTagName('object')[0];
             vizElement.style.width = '100vh';
-            vizElement.style.height = '500px';
+            vizElement.style.height = '55vh';
             var scriptElement = document.createElement('script');
             scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
             vizElement.parentNode.insertBefore(scriptElement, vizElement);
           </script>
         </Helmet>
+
+
+      <p>Many communities are built on lands that are naturally prone to wildfires.... </p>
       </div>);
   };
 

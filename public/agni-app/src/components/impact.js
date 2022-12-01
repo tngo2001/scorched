@@ -1,29 +1,30 @@
 import people from '../graph-placeholders/peopleAffected.png';
 import costs from '../graph-placeholders/costComparison.png';
+import fireCigarette from '../media/fireCigarette.png';
 
 export const Impact = () => {
     return (
-      <div className="section light-bg">
+      <div className="section dark-bg">
         <h3>The impact</h3>
 
         <p>Wildfires are costly</p>
 
-        <p>The average supression cost of wildfires in the past 5 years was $2,862,884,200</p>
+        <p>Average supression cost: $2,862,884,200</p>
         <p>Rehabilitation cost/property damage: 16.5 billion</p>
         <p>Insurance losses: 8.69 billion</p>
         <p>Economic losses: 20.36 billion</p>
 
         
-        <p>Health effects</p>
+        <p><strong>Health Effects</strong></p>
+        
         <p>Wildfires produce smoke that has a fine particulate matter. When inhaled, it gets trapped in lungs, can enter the bloodstream -> respiratory, cardiovascular problems</p>
 
         <p>Bad air quality of _____ is equivalent to smoking 7 cigarettes a day</p>
+        <img src={fireCigarette} alt="" width="40%" height="40%"/>
 
-        
+
 
         <p>Hard to quantify the full extent of wildfires' impact on health. Estimated that wildfires across the world cause about 30,000 premature deaths every year</p>
-
-
 
 
 
@@ -33,7 +34,6 @@ export const Impact = () => {
         <p>Even after the fire burns out, wildfires cause <span style={{color:"#D14337"}}>habitat destruction</span> and <span style={{color:"#D14337"}}>fragmentation</span>.</p>
         <p>It can take up to <span style={{color:"#D14337"}}>## years</span> for a habitat to grow back after a wildfire.</p>
       
-        <p><strong>ON PEOPLE</strong></p>
 
         <img src={people} alt="The number of people hurt by wildfires" width="30%" height="40%"/>
         <img src={costs} alt="The costs of wildfires" width="40%" height="50%"/>
