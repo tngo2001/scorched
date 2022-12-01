@@ -6,6 +6,27 @@ export const Impact = () => {
       <div className="section light-bg">
         <h3>The impact</h3>
 
+        <p>Wildfires are costly</p>
+
+        <p>The average supression cost of wildfires in the past 5 years was $2,862,884,200</p>
+        <p>Rehabilitation cost/property damage: 16.5 billion</p>
+        <p>Insurance losses: 8.69 billion</p>
+        <p>Economic losses: 20.36 billion</p>
+
+        
+        <p>Health effects</p>
+        <p>Wildfires produce smoke that has a fine particulate matter. When inhaled, it gets trapped in lungs, can enter the bloodstream -> respiratory, cardiovascular problems</p>
+
+        <p>Bad air quality of _____ is equivalent to smoking 7 cigarettes a day</p>
+
+        
+
+        <p>Hard to quantify the full extent of wildfires' impact on health. Estimated that wildfires across the world cause about 30,000 premature deaths every year</p>
+
+
+
+
+
         <p><strong>ON NATURE</strong></p>
        
         <p>Millions of animals are <span style={{color:"#D14337"}}>killed</span> or <span style={{color:"#D14337"}}>burned</span> while trying to escape fires.</p>
