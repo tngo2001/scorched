@@ -1,7 +1,7 @@
 
 export const Help = () => {
     return (
-      <div className="section light-bg">
+      <div className="section">
         <h3>How to help</h3>
        
         <p>New technology is emerging to help catch wildfires earlier and stop them from spreading.</p>

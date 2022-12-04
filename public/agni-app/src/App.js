@@ -6,6 +6,7 @@ import './index.css';
 import Splash from "./components/splash";
 import Context from "./components/context";
 import Acres from "./components/acres";
+import AcresExplain from "./components/acresExplain";
 import Wild from "./components/wild";
 import CauseExplain from "./components/causeExplain";
 import Location from "./components/location";
@@ -16,7 +17,7 @@ import Sources from "./components/sources";
 import About from "./components/about";
 
 
-const anchors = ["Introduction", "Overview", "Acres-burned", "Causes", "Causes-Explained", "Location", "Impact", "Summary", "How-to-help", "Sources", "About"];
+const anchors = ["Introduction", "Overview", "Acres-burned", "Intensity-Explained", "Causes", "Causes-Explained", "Location", "Impact", "Summary", "How-to-help", "Sources", "About"];
 
 const App = () => (
   <ReactFullpage
@@ -25,7 +26,8 @@ const App = () => (
     navigationTooltips={anchors}
     navigat
     // sectionsColor={["#212121","#383838","#212121", "#383838","#212121","##383838","#212121", "#383838","#212121", "#383838", ]}
-    sectionsColor={["#212121","#EEE8E7","#212121", "#EEE8E7", "#EEE8E7","#212121","#212121", "#212121","#EEE8E7","#212121", "#EEE8E7"]}
+    // sectionsColor={["#212121","#EEE8E7","#212121", "#EEE8E7", "#EEE8E7","#212121","#212121", "#212121","#EEE8E7","#212121", "#EEE8E7"]}
+    sectionsColor={["#212121","#212121", "#212121", "#212121", "#212121", "#212121", "#212121", "#212121", "#212121", "#212121", "#212121", "#212121"]}
     onLeave={(origin, destination, direction) => {
       //console.log("onLeave event", { origin, destination, direction });
     }}
@@ -37,6 +39,7 @@ const App = () => (
           <Splash/>
           <Context/>
           <Acres/>
+          <AcresExplain/>
           <Wild/>
           <CauseExplain/>
           <Location/>

@@ -7,57 +7,50 @@ body {
 
 /* Title */
 h1 {
-  font-size: 5em;
-
-  font-size: 10em;
+  font-size: 8em;
   color: #EEE8E7;
   font-weight: 100;
-  margin-block-start: 0;
-  margin-block-end: 0;
+  text-align: center;
+  vertical-align: middle;
+  margin-top: 20%;
 
 }
 
 /* Subheadings */
 h3 {
-  font-size: 3em;
+  font-size: 4em;
   text-align: center;
-  /*color: #EEE8E7;*/
   font-weight: 300;
 }
 
 /* Body ("The number of wildfires have been relatively constant") */
 p {
   font-family: 'Oxygen';
-  font-size: 20px;
-}
-/*
-#section1 {
-  color: #fff;
+  font-size: 1.5em;
 }
 
-} */
 .section{
   height: 100vh;
+  color: #EEE8E7;
+  text-align: center;
 }
 
 #splash{
   margin-block-start: 0;
   margin-block-end: 0;
-
-  /* background-image: url("./media/wildfireSplash1.png");
-  background-size: cover; */
-}
-
-#splash{
-  margin-block-start: 0;
-  margin-block-end: 0;
+  vertical-align: middle;
 
   /* background-image: url("./media/wildfireSplash1.png");
   background-size: cover; */
 }
 
 .fp-section {
-  text-align: center;
+  /* text-align: center; */
+  height: 100vh; 
+}
+
+.fp-table{
+  display: block;
 }
 
 .light-bg{

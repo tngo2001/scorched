@@ -2,10 +2,10 @@ import { Helmet } from "react-helmet"
 
 export const Context = () => {
     return (
-      <div className="section light-bg">
+      <div className="section">
         <h3>Overview</h3>
 
-        <p>The number of wildfires per year has been relatively constant...</p>
+        <p>The number of wildfires per year has been relatively constant, even slightly decreasing...</p>
 
         <div className='tableauPlaceholder' id='viz1669688958283' style={{margin: 'auto'}}>
           <noscript>
@@ -34,8 +34,8 @@ export const Context = () => {
           <script type='text/javascript'>
             var divElement = document.getElementById('viz1669688958283');                    
             var vizElement = divElement.getElementsByTagName('object')[0];                    
-            vizElement.style.width='150vh';
-            vizElement.style.height='500px';                    
+            vizElement.style.width='100vh';
+            vizElement.style.height='50vh';                
             var scriptElement = document.createElement('script');                    
             scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
             vizElement.parentNode.insertBefore(scriptElement, vizElement);                

@@ -5,7 +5,7 @@
   
   
   img {
-    max-width: 110%;
+    max-width: 100%;
   }
   
   body {
@@ -21,6 +21,7 @@
     position: absolute;
     top: 0;
     right: 0;
+    width: 30%;
   
     -webkit-animation: an-smoke-1 6s ease-in-out infinite;
     -moz-animation: an-smoke-1 6s ease-in-out infinite;

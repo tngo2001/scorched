@@ -4,7 +4,7 @@ export const Splash = () => {
       <div className="section dark-bg ag-smoke-block" id="splash">
 
        
-        <h1>Scorched</h1>
+        <h1 className="my-8">Scorched</h1>
     <div className="ag-smoke-1"><img src="https://raw.githubusercontent.com/SochavaAG/example-mycode/master/pens/animation-smoke-img/images/smoke-1.png" alt=""/></div>
     <div className="ag-smoke-1 ag-smoke__delay-1"><img src="https://raw.githubusercontent.com/SochavaAG/example-mycode/master/pens/animation-smoke-img/images/smoke-1.png" alt=""/></div>
     <div className="ag-smoke-1 ag-smoke__delay-2"><img src="https://raw.githubusercontent.com/SochavaAG/example-mycode/master/pens/animation-smoke-img/images/smoke-1.png" alt=""/></div>

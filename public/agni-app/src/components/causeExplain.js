@@ -1,6 +1,6 @@
 export const CauseExplain = () => {
     return (
-      <div className="section light-bg">
+      <div className="section">
        
 
         <p>Humans often start wildfires through unattended campfires, lit cigarettes, and arson.</p>

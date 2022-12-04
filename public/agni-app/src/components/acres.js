@@ -42,7 +42,7 @@ export const Acres = () => {
           </script>
         </Helmet>
 
-        <p>Fires have become more <span style={{color:"#D14337"}}>intense</span> and <span style={{color:"#D14337"}}>destructive</span>.</p>
+        <p>As demonstrated by the increasing number of acres burned, fires have become more <span style={{color:"#D14337"}}>intense</span> and <span style={{color:"#D14337"}}>destructive</span>.</p>
       </div>);
   };
 
