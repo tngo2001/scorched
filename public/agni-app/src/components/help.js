@@ -4,10 +4,12 @@ export const Help = () => {
       <div className="section">
         <h3>How to help</h3>
        
-        <p>New technology is emerging to help catch wildfires earlier and stop them from spreading.</p>
-        <p>Effort to combat climate change.</p>
-        <p>(King county) Burn restriction zip code lookup.</p>
-        <p>Donate to wildlife support funds.</p>
+     <p>Luckily, there is hope. We have been working to slow down climate change, which will help the 
+      situation from getting even worse. New technology is being developed to help catch wildfires earlier and stop them 
+      from spreading. As an individual, you can be mindful about campfires, such as looking up whether there is a burn ban in your 
+      area because of dry conditions. 
+      You can also donate to wildfire relief funds, such as the Pacific Northwest Wildfire Relief and Recovery Fund. 
+</p>
       </div>);
   };
   

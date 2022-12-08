@@ -41,7 +41,7 @@ export const Location = () => {
         </Helmet>
 
 
-      <p>Many communities are built on lands that are naturally prone to wildfires.... </p>
+      <p>Many communities are developed and developing on lands that are naturally prone to wildfires. This means that even more people and homes will be in harm's way.</p>
       </div>);
   };
 
