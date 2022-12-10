@@ -5,6 +5,8 @@ export const Location = () => {
       <div className="section dark-bg">
         <h3>Fires, fires everywhere</h3>
 
+        <p>Who is most impacted by these wildfires?</p>
+
         <div className='tableauPlaceholder' id='viz1669791521307' style={{margin: 'auto'}}>
           <noscript>
             <a href='/#'>

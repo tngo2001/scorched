@@ -41,7 +41,7 @@ const App = () => (
           <Acres/>
           <AcresExplain/>
           <Wild/>
-          <CauseExplain/>
+          {/* <CauseExplain/> -- incorporated into "Wild" text*/}
           <Location/>
           <Impact/>
           <Summary/>

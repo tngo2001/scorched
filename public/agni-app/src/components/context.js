@@ -5,7 +5,11 @@ export const Context = () => {
       <div className="section">
         <h3>Overview</h3>
 
-        <p>The number of wildfires per year has been relatively constant, even slightly decreasing...</p>
+        <p>This summer, the smoke in Seattle seemed to be the worst it's ever been: so many people were impacted by the poor air quality; the moon was orange for weeks.</p>
+
+        <p>The reason? Wildfires, which are defined as unplanned fires, including lightning-caused fires, unauthorized human-caused fires, escaped prescribed fire projects.</p>
+
+        <p>Tens of thousands of wildfires happen per year. Since 1983, the trend in the number of wildfires per year has been relatively constant, and from 1985 to now <em>(try brushing points on the graph!)</em>, it's even been decreasing.</p>
 
         <div className='tableauPlaceholder' id='viz1669688958283' style={{margin: 'auto'}}>
           <noscript>
@@ -42,7 +46,7 @@ export const Context = () => {
           </script>
         </Helmet>
 
-        <p>...so why does it feel like wildfires appear on the news <span style={{color:"#D14337"}}>more and more</span> in the past few years?</p>
+        <p>...so why does it feel like wildfires are <span style={{color:"#D14337"}}>getting worse?</span></p>
 
         <p><strong>Let's smoke out the data.</strong></p>
         {/* What if we made that text a button that scrolled to the next section? */}

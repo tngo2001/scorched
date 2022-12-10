@@ -5,10 +5,12 @@ export const AcresExplain = () => {
 
         <h3>Why are wildfires becoming more intense?</h3>
        
-        <p>As climate change increases temperatures and droughts, it makes it easier for wildfires to start and spread.</p>
-        <p>In turn, burning forests release more climate-changing gases that further the human-caused climate change.</p>
+        <p>As climate change increases temperatures and leads to droughts, it makes it easier for wildfires to start and spread.</p>
+        <p>In turn, those burning forests release more climate-changing gases that only further climate change.</p>
 
         <img src={wildfireFeedback} alt="" width="60%" height="60%"/>
+
+        <p>It's a cycle of destruction.</p>
 
       </div>);
   };

@@ -1,3 +1,5 @@
+//incorporated into "Wild" instead
+
 export const CauseExplain = () => {
     return (
       <div className="section">

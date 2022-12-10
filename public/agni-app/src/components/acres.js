@@ -5,7 +5,7 @@ export const Acres = () => {
       <div className="section dark-bg">
         <h3>It's getting hot</h3>
 
-        <p>Although the number of fires per year has stayed relatively the same, the number of acres burned has not.</p>
+        <p>Instead of looking at the number of fires per year, now we're looking at the number of <em>acres burned.</em></p>
 
         <div className='tableauPlaceholder' id='viz1669791137335' style={{margin: 'auto'}}>
           <noscript>
@@ -42,7 +42,7 @@ export const Acres = () => {
           </script>
         </Helmet>
 
-        <p>As demonstrated by the increasing number of acres burned, fires have become more <span style={{color:"#D14337"}}>intense</span> and <span style={{color:"#D14337"}}>destructive</span>.</p>
+        <p>The overall acres burned is <bold>steadly increasing</bold>. This is a scary trend because it means fires have become more <span style={{color:"#D14337"}}>intense</span> and <span style={{color:"#D14337"}}>destructive</span>.</p>
       </div>);
   };
 
