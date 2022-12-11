@@ -4,10 +4,16 @@ export const Summary = () => {
     return (
       <div className="section dark-bg">
         <h3>Wildfires have been getting worse</h3>
+
+        <div id="overviewOne">
         <p>Overall, wildfires hurt everyone. They hurt people, animals, homes, and 
           habitats, and alongside the increasing problem of climate change, wildfires have been burning 
           bigger than ever. And we are most causing them.
+
+  
         </p>
+
+        </div>
       
         <div className="tableauPlaceholder" id="viz1670647688695" style={{margin: 'auto'}}>
             <noscript>

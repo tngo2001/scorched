@@ -17,7 +17,7 @@ import Sources from "./components/sources";
 import About from "./components/about";
 
 
-const anchors = ["Introduction", "Overview", "Acres-burned", "Intensity-Explained", "Causes", "Causes-Explained", "Location", "Impact", "Summary", "How-to-help", "Sources", "About"];
+const anchors = ["Introduction", "Overview", "Acres-burned", "Intensity-Explained", "Causes", "Location", "Impact", "Summary", "How-to-help", "Sources", "About"];
 
 const App = () => (
   <ReactFullpage
