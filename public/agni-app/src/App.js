@@ -25,8 +25,7 @@ const App = () => (
     navigation
     navigationTooltips={anchors}
     navigat
-    // sectionsColor={["#212121","#383838","#212121", "#383838","#212121","##383838","#212121", "#383838","#212121", "#383838", ]}
-    // sectionsColor={["#212121","#EEE8E7","#212121", "#EEE8E7", "#EEE8E7","#212121","#212121", "#212121","#EEE8E7","#212121", "#EEE8E7"]}
+
     sectionsColor={["#212121","#212121", "#212121", "#212121", "#212121", "#212121", "#212121", "#212121", "#212121", "#212121", "#212121", "#212121"]}
     onLeave={(origin, destination, direction) => {
       //console.log("onLeave event", { origin, destination, direction });
