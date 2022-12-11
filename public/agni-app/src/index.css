@@ -1,6 +1,7 @@
 @import url(//fonts.googleapis.com/css?family=Noticia+Text);
 @import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
 
+
 body {
   font-family: 'Noticia';
 }
@@ -53,13 +54,13 @@ p {
   display: block;
 }
 
-.light-bg{
+/* .light-bg{
   color: #212121;
 }
 
 .dark-bg{
   color: #EEE8E7;
-}
+} */
 
 img {
   margin: 10px;
@@ -68,3 +69,9 @@ img {
 .hidden {
   display: none;
 }
+
+#overviewOne{
+  width: 70%;
+  margin:auto;
+}
+

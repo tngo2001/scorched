@@ -7,7 +7,7 @@ export const Wild = () => {
 
         <p>Let's take a closer look at the number of fires by cause.</p>
 
-        <div className='tableauPlaceholder' id='viz1670117970810' style={{position: 'center'}}>
+        <div className='tableauPlaceholder' id='viz1670117970810' style={{position: 'center', margin:'auto'}}>
           <noscript>
             <a href='/#'>
               <img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;co&#47;count_of_fires_by_cause&#47;Dashboard1&#47;1_rss.png' style={{border: 'none'}} />
@@ -34,8 +34,8 @@ export const Wild = () => {
         <script type='text/javascript'>
           var divElement = document.getElementById('viz1670117970810');
           var vizElement = divElement.getElementsByTagName('object')[0];
-          vizElement.style.width = '130vh';
-          vizElement.style.height = '100vh';
+          vizElement.style.width = '100vh';
+          vizElement.style.height = '500px';
           var scriptElement = document.createElement('script');
           scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
           vizElement.parentNode.insertBefore(scriptElement, vizElement);

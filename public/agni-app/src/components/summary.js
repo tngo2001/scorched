@@ -9,7 +9,7 @@ export const Summary = () => {
           bigger than ever. And we are most causing them.
         </p>
       
-        <div className="tableauPlaceholder" id="viz1670647688695" style={{margin: 'relative'}}>
+        <div className="tableauPlaceholder" id="viz1670647688695" style={{margin: 'auto'}}>
             <noscript>
                 <a href="/#">
                     <img
@@ -40,8 +40,8 @@ export const Summary = () => {
           <script type="text/javascript">
               var divElement = document.getElementById("viz1670647688695");
               var vizElement = divElement.getElementsByTagName("object")[0];
-              vizElement.style.width = '100vh';
-              vizElement.style.height = '55vh';
+              vizElement.style.width = '110vh';
+              vizElement.style.height = '80vh';
               var scriptElement = document.createElement("script");
               scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
               vizElement.parentNode.insertBefore(scriptElement, vizElement);
