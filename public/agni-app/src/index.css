@@ -31,9 +31,10 @@ p {
 }
 
 .section{
-  height: 100vh;
+  height: 100vh !important;
   color: #EEE8E7;
   text-align: center;
+  margin: 0; 
 }
 
 #splash{
@@ -73,5 +74,21 @@ img {
 #overviewOne{
   width: 70%;
   margin:auto;
+}
+
+.layoutOne{
+  width: 70%;
+  text-align: left; 
+  margin: auto;
+
+
+
+}
+
+.layoutTwo{
+  width: 70%;
+  margin: auto;
+  margin-top: 12px;
+
 }
 

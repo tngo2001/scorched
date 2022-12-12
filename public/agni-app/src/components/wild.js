@@ -42,9 +42,11 @@ export const Wild = () => {
         </script>
         </Helmet>
 
+        <div className="layoutOne">
+
         <p>Though many wildfires are caused by lightning strikes, 85% are actually started by <bold>people</bold>.</p>
         <p>This happens because of unattended campfires, negligently disposed cigarettes, faulty equipment (lawnmowers, powerlines etc. can create sparks), and deliberate arson.</p>
-
+        </div>
        
       </div>);
   };

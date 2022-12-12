@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/fp/agni/static/css/main.a7b9a5ee.css",
-    "main.js": "/fp/agni/static/js/main.cd7ded4e.js",
+    "main.css": "/fp/agni/static/css/main.7bc00ac3.css",
+    "main.js": "/fp/agni/static/js/main.e5441e7a.js",
     "static/js/787.0946c508.chunk.js": "/fp/agni/static/js/787.0946c508.chunk.js",
     "static/media/fireCigarette.png": "/fp/agni/static/media/fireCigarette.1dce76de77cafd41fae6.png",
     "static/media/wildfireFeedback.png": "/fp/agni/static/media/wildfireFeedback.09f813c515415d092673.png",
     "static/media/costComparison.png": "/fp/agni/static/media/costComparison.f731149e035e3ad39336.png",
     "index.html": "/fp/agni/index.html",
-    "main.a7b9a5ee.css.map": "/fp/agni/static/css/main.a7b9a5ee.css.map",
-    "main.cd7ded4e.js.map": "/fp/agni/static/js/main.cd7ded4e.js.map",
+    "main.7bc00ac3.css.map": "/fp/agni/static/css/main.7bc00ac3.css.map",
+    "main.e5441e7a.js.map": "/fp/agni/static/js/main.e5441e7a.js.map",
     "787.0946c508.chunk.js.map": "/fp/agni/static/js/787.0946c508.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7b9a5ee.css",
-    "static/js/main.cd7ded4e.js"
+    "static/css/main.7bc00ac3.css",
+    "static/js/main.e5441e7a.js"
   ]
 }

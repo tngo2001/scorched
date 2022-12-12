@@ -42,7 +42,11 @@ export const Acres = () => {
           </script>
         </Helmet>
 
+        <div className="layoutOne">
+
         <p>The overall acres burned is <bold>steadly increasing</bold>. This is a scary trend because it means fires have become more <span style={{color:"#D14337"}}>intense</span> and <span style={{color:"#D14337"}}>destructive</span>.</p>
+        </div>
+      
       </div>);
   };
 
