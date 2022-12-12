@@ -10,7 +10,7 @@ export const Impact = () => {
 
         <p><strong>Health Effects</strong></p>
 
-        <div id="overviewOne">
+        <div className='layoutOne'>
         
       
         <p>For individuals, wildfires can have devastating effects on their health. Not many people die in the actual fire each year, but an estimated number of <bold>30,000 people</bold> die prematurely in the world from health complications due to the fires.
@@ -21,9 +21,11 @@ export const Impact = () => {
         <img src={fireCigarette} alt="" width="40%" height="40%"/>
 
 
-<div id="overviewOne">
-
         <p><strong>Impact on wildlife</strong></p>
+
+<div className='layoutOne'>
+
+      
        
        <p>Natural wildfires can actually benefit wildlife by increasing biodiversity once a habitat recovers. However, too many frequent and intense fires can result in loss of habitats and food sources, forced migration, an opening for invasive species to move in before native flora grow, and flooding and erosion.</p>
 
