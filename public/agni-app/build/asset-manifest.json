@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/fp/agni/static/css/main.7bc00ac3.css",
-    "main.js": "/fp/agni/static/js/main.e5441e7a.js",
+    "main.css": "/fp/agni/static/css/main.2e684fa0.css",
+    "main.js": "/fp/agni/static/js/main.4fa984a1.js",
     "static/js/787.0946c508.chunk.js": "/fp/agni/static/js/787.0946c508.chunk.js",
+    "static/media/smokeyBear.jpeg": "/fp/agni/static/media/smokeyBear.b555eadb3e91d293390d.jpeg",
     "static/media/fireCigarette.png": "/fp/agni/static/media/fireCigarette.1dce76de77cafd41fae6.png",
     "static/media/wildfireFeedback.png": "/fp/agni/static/media/wildfireFeedback.09f813c515415d092673.png",
     "static/media/costComparison.png": "/fp/agni/static/media/costComparison.f731149e035e3ad39336.png",
     "index.html": "/fp/agni/index.html",
-    "main.7bc00ac3.css.map": "/fp/agni/static/css/main.7bc00ac3.css.map",
-    "main.e5441e7a.js.map": "/fp/agni/static/js/main.e5441e7a.js.map",
+    "main.2e684fa0.css.map": "/fp/agni/static/css/main.2e684fa0.css.map",
+    "main.4fa984a1.js.map": "/fp/agni/static/js/main.4fa984a1.js.map",
     "787.0946c508.chunk.js.map": "/fp/agni/static/js/787.0946c508.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7bc00ac3.css",
-    "static/js/main.e5441e7a.js"
+    "static/css/main.2e684fa0.css",
+    "static/js/main.4fa984a1.js"
   ]
 }

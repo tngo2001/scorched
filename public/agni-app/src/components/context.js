@@ -4,7 +4,7 @@ export const Context = () => {
     return (
       <div className="section">
         <h3>Overview</h3>
-        <div id= "overviewOne">
+        <div className="layoutOne">
 
         <p>This summer, the smoke in Seattle seemed to be the worst it's ever been: 
           so many people were impacted by the poor air quality; the moon was orange for weeks.The reason?
