@@ -35,7 +35,7 @@ export const Acres = () => {
             var divElement = document.getElementById('viz1669791137335');
             var vizElement = divElement.getElementsByTagName('object')[0];
             vizElement.style.width = '100vh';
-            vizElement.style.height = '500px';
+            vizElement.style.height = '50vh';
             var scriptElement = document.createElement('script');
             scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
             vizElement.parentNode.insertBefore(scriptElement, vizElement);
@@ -46,7 +46,7 @@ export const Acres = () => {
 
         <p>The overall acres burned is <bold>steadly increasing</bold>. This is a scary trend because it means fires have become more <span style={{color:"#D14337"}}>intense</span> and <span style={{color:"#D14337"}}>destructive</span>.</p>
         </div>
-      
+
       </div>);
   };
 
